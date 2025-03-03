@@ -14,3 +14,4 @@ Link to CTF: https://ctflearn.com/
 |2.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Web/Basic%20Injection">SQL Injection</a>|Web|<a href="">Detection Lab</a>|
 |3.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Forensics/Forensics%20101">Forensics 101</a>|Forensics|<a href="">Detection Lab</a>|
 |4.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Forensics/Taking%20LS">Taking LS</a>|Forensics|<a href="">Detection Lab</a>|
+|4.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Cryptography/Base%202%202%20the%206">Base 2 2 the 6</a>|Cryptography|<a href="">Detection Lab</a>|
