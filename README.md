@@ -10,5 +10,5 @@ Link to CTF: https://ctflearn.com/
 
 |No. |Challenge            |Category      |Medium                              |
 |----|---------------------|--------------|------------------------------------|
-|1.  |<a href="">Character Encoding</a>|Cryptography  |<a href="https://google.com">Detection Lab</a>|
-|2.  |SQL Injection        |Forensics     |<a href="https://google.com">Detection Lab</a>|
+|1.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Cryptography/Character%20Encoding">Character Encoding</a>|Cryptography  |<a href="">Detection Lab</a>|
+|2.  |SQL Injection        |Forensics     |<a href="">Detection Lab</a>|
