@@ -10,7 +10,7 @@ Link to CTF: https://ctflearn.com/
 
 |No. |Challenge            |Category      |Medium                              |
 |----|---------------------|--------------|------------------------------------|
-|1.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Cryptography/Character%20Encoding">Character Encoding</a>|Cryptography  |<a href="">Detection Lab</a>|
-|2.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Web/Basic%20Injection">SQL Injection</a>|Web     |<a href="">Detection Lab</a>|
-|2.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Web/Basic%20Injection">SQL Injection</a>|Web     |<a href="">Detection Lab</a>|
-|2.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Forensics/Taking%20LS">Taking LS</a>|Forensics|<a href="">Detection Lab</a>|
+|1.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Cryptography/Character%20Encoding">Character Encoding</a>|Cryptography|<a href="">Detection Lab</a>|
+|2.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Web/Basic%20Injection">SQL Injection</a>|Web|<a href="">Detection Lab</a>|
+|3.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Forensics/Forensics%20101">Forensics 101</a>|Forensics|<a href="">Detection Lab</a>|
+|4.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Forensics/Taking%20LS">Taking LS</a>|Forensics|<a href="">Detection Lab</a>|
