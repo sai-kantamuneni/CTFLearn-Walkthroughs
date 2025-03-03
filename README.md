@@ -10,7 +10,7 @@ Link to CTF: https://ctflearn.com/
 
 |No. |Challenge            |Category      |Medium                              |
 |----|---------------------|--------------|------------------------------------|
-|1.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Cryptography/Character%20Encoding">Character Encoding</a>|Cryptography||
+|1.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Cryptography/Character%20Encoding">Character Encoding</a>|Cryptography|<a href="https://medium.com/@sai.kantamuneni/ctflearn-write-ups-1-character-encoding-ab9ec032519b">CTFLearn Write-ups #1</a>|
 |2.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Web/Basic%20Injection">SQL Injection</a>|Web||
 |3.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Forensics/Forensics%20101">Forensics 101</a>|Forensics||
 |4.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Forensics/Taking%20LS">Taking LS</a>|Forensics||
