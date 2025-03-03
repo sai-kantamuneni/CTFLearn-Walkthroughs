@@ -8,7 +8,7 @@ Link to CTF: https://ctflearn.com/
 
 ## Challenges
 
-|No. |Challenge            |Category      |Github                  |Medium                              |
-|----|---------------------|--------------|------------------------|------------------------------------|
-|1.  |SQL Injection        |Forensics     |<a href="https://google.com">Detection Lab</a>|<a href="https://google.com">Detection Lab</a>|
-|1.  |SQL Injection        |Forensics     |<a href="https://google.com">Detection Lab</a>|<a href="https://google.com">Detection Lab</a>|
+|No. |Challenge            |Category      |Medium                              |
+|----|---------------------|--------------|------------------------------------|
+|1.  |<a href="">Character Encoding</a>|Cryptography  |<a href="https://google.com">Detection Lab</a>|
+|2.  |SQL Injection        |Forensics     |<a href="https://google.com">Detection Lab</a>|
