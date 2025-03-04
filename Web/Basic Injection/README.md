@@ -1,7 +1,7 @@
 # Basic Injection
 In this post, we will be attempting to solve the **Basic Injection** challenge from the Easy Difficulty on CTFLearn.
 
-You can access the challenge here: <a href="https://medium.com/r/?url=https%3A%2F%2Fctflearn.com%2Fchallenge%2F88">Basic Injection</a>
+You can access the challenge here: <a href="https://ctflearn.com/challenge/88">Basic Injection</a>
 
 Let us look at the problem:
 
