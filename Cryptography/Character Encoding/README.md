@@ -2,7 +2,7 @@
 
 In this post, we will be attempting to solve the **Character Encoding** challenge from the Easy Difficulty on CTFLearn.
 
-You can access the challenge <a href="https://ctflearn.com/challenge/115">here</a>.
+You can access the challenge here: <a href="https://ctflearn.com/challenge/115">Character Encoding</a>.
 
 Let us look at the problem:
 
