@@ -19,4 +19,4 @@ Link to CTF: https://ctflearn.com/
 |7.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Cryptography/Morse%20Code">Morse Code</a>|Crytopgraphy|<a href=""></a>|
 |8.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Forensics/WOW....%20So%20Meta">WOW.... So Meta</a>|Forensics|<a href=""></a>|
 |9.  |<a href=""></a>||<a href=""></a>|
-|9.  |<a href=""></a>||<a href=""></a>|
+|10.  |<a href=""></a>||<a href=""></a>|
