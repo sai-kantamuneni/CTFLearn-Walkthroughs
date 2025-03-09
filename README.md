@@ -16,7 +16,7 @@ Link to CTF: https://ctflearn.com/
 |4.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Forensics/Taking%20LS">Taking LS</a>|Forensics|<a href="https://medium.com/@sai.kantamuneni/ctflearn-write-ups-4-taking-ls-0a799e860563">CTFLearn Write-ups #4</a>|
 |4.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Cryptography/Base%202%202%20the%206">Base 2 2 the 6</a>|Cryptography|<a href="https://medium.com/@sai.kantamuneni/b745b3981527">CTFLearn Write-ups #5</a>|
 |6.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Cryptography/Reverse%20Polarity">Reverse Polarity</a>|Cryptography|<a href=""></a>|
-|7.  |<a href=""></a>||<a href=""></a>|
+|7.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Cryptography/Morse%20Code">Morse Code</a>|Crytopgraphy|<a href=""></a>|
 |8.  |<a href=""></a>||<a href=""></a>|
 |9.  |<a href=""></a>||<a href=""></a>|
 |9.  |<a href=""></a>||<a href=""></a>|
