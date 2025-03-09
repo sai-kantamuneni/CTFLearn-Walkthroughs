@@ -18,5 +18,5 @@ Link to CTF: https://ctflearn.com/
 |6.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Cryptography/Reverse%20Polarity">Reverse Polarity</a>|Cryptography|<a href=""></a>|
 |7.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Cryptography/Morse%20Code">Morse Code</a>|Crytopgraphy|<a href=""></a>|
 |8.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Forensics/WOW....%20So%20Meta">WOW.... So Meta</a>|Forensics|<a href=""></a>|
-|9.  |<a href=""></a>||<a href=""></a>|
+|9.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Miscellaneous/Where%20Can%20My%20Robot%20Go">Where Can My Robot Go?</a>|Miscellaneous|<a href=""></a>|
 |10.  |<a href=""></a>||<a href=""></a>|
