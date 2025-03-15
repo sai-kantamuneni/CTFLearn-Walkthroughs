@@ -21,7 +21,7 @@ Link to CTF: https://ctflearn.com/
 |9.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Miscellaneous/Where%20Can%20My%20Robot%20Go">Where Can My Robot Go?</a>|Miscellaneous|<a href="https://medium.com/@sai.kantamuneni/ctflearn-write-ups-9-where-can-my-robot-go-4fcc3c10b609">CTFLearn Write-ups #9</a>|
 |10.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Miscellaneous/Wikipedia">Wikipedia</a>|Miscellaneous|<a href="https://medium.com/@sai.kantamuneni/ctflearn-write-ups-10-wikipedia-6350dfd2042c">CTFLearn Write-ups #10</a>|
 |11.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Forensics/Binwalk">Binwalk</a>|Forensics|<a href=""></a>|
-|12.  |<a href=""></a>||<a href=""></a>|
+|12.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Cryptography/Hextroadinary">Hextroadinary</a>|Cryptography|<a href=""></a>|
 |13.  |<a href=""></a>||<a href=""></a>|
 |14.  |<a href=""></a>||<a href=""></a>|
 |15.  |<a href=""></a>||<a href=""></a>|
