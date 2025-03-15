@@ -20,7 +20,7 @@ Link to CTF: https://ctflearn.com/
 |8.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Forensics/WOW....%20So%20Meta">WOW.... So Meta</a>|Forensics|<a href="https://medium.com/@sai.kantamuneni/ctflearn-write-ups-8-wow-so-meta-2b98cb580d93">CTFLearn Write-ups #8</a>|
 |9.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Miscellaneous/Where%20Can%20My%20Robot%20Go">Where Can My Robot Go?</a>|Miscellaneous|<a href="https://medium.com/@sai.kantamuneni/ctflearn-write-ups-9-where-can-my-robot-go-4fcc3c10b609">CTFLearn Write-ups #9</a>|
 |10.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Miscellaneous/Wikipedia">Wikipedia</a>|Miscellaneous|<a href="https://medium.com/@sai.kantamuneni/ctflearn-write-ups-10-wikipedia-6350dfd2042c">CTFLearn Write-ups #10</a>|
-|11.  |<a href="">Binwalk</a>|Forensics|<a href=""></a>|
+|11.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Forensics/Binwalk">Binwalk</a>|Forensics|<a href=""></a>|
 |12.  |<a href=""></a>||<a href=""></a>|
 |13.  |<a href=""></a>||<a href=""></a>|
 |14.  |<a href=""></a>||<a href=""></a>|
