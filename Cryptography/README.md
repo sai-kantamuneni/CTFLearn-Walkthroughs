@@ -8,3 +8,4 @@ This folder contains all the Cryptography challenges in CTFLearn
 |2.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Cryptography/Base%202%202%20the%206">Base 2 2 the 6</a>|Easy|
 |3.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Cryptography/Reverse%20Polarity">Reverse Polarity</a>|Easy|
 |4.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Cryptography/Morse%20Code">Morse Code</a>|Easy|
+|4.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Cryptography/Hextroadinary">Hextroadinary</a>|Easy|
