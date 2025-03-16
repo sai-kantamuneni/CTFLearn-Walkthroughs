@@ -10,3 +10,4 @@ This folder contains all the Cryptography challenges in CTFLearn
 |4.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Cryptography/Morse%20Code">Morse Code</a>|Easy|
 |5.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Cryptography/Hextroadinary">Hextroadinary</a>|Easy|
 |6.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Cryptography/Vigen%C3%A8re%20Cipher">Vigenere Cipher</a>|Easy|
+|7.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Cryptography/BruXOR">BruXOR</a>|Easy|
