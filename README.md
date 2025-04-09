@@ -25,3 +25,4 @@ Link to CTF: https://ctflearn.com/
 |13.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Cryptography/Vigen%C3%A8re%20Cipher">Vigenere Cipher</a>|Cryptography|<a href=""></a>|
 |14.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Forensics/Exif">Exif</a>|Forensics|<a href=""></a>|
 |15.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Cryptography/BruXOR">BruXOR</a>|Cryptography|<a href=""></a>|
+|15.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Forensics/Rubber%20Duck">Rubber Duck</a>|Forensics|<a href=""></a>|
