@@ -26,3 +26,4 @@ Link to CTF: https://ctflearn.com/
 |14.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Forensics/Exif">Exif</a>|Forensics|<a href=""></a>|
 |15.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Cryptography/BruXOR">BruXOR</a>|Cryptography|<a href=""></a>|
 |15.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Forensics/Rubber%20Duck">Rubber Duck</a>|Forensics|<a href=""></a>|
+|15.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Forensics/Im%20a%20dump">I'm a dump</a>|Forensics|<a href=""></a>|
