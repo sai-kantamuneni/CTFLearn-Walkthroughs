@@ -10,4 +10,5 @@ This folder contains all the Forensics challenges in CTFLearn
 |4.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Forensics/Binwalk">Binwalk</a>|Easy|
 |5.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Forensics/Exif">Exif</a>|Easy|
 |5.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Forensics/Rubber%20Duck">Rubber Duck</a>|Easy|
+|5.  |<a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs/tree/main/Forensics/Im%20a%20dump">I'm a dump</a>|Easy|
 
